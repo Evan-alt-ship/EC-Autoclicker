@@ -1,6 +1,6 @@
-# EC Autoclicker
+# PHAC Autoclicker
 
-The EC (Expertcoderz) Autoclicker is an open source, advanced autoclicking utility for Windows, written fully in
+The PHAC (Pheonix Leaks) Autoclicker is an open source, advanced autoclicking utility for Windows, written fully in
 [AutoHotkey](https://www.autohotkey.com/) v2. It aims to provide a large variety of configurability and functionality
 never before seen in other general-purpose autoclicking tools.
 
@@ -47,10 +47,7 @@ doesn't have the resources to get them [signed](https://en.wikipedia.org/wiki/Co
 **Prerequisites:** [AutoHotkey v2](https://www.autohotkey.com/download/ahk-v2.exe) must be installed.
 
 **Note:** In its uncompiled script form, EC Autoclicker is unable to check for newer versions online
-(neither automatically nor manually).
-
-Download `EC-Autoclicker.ahk` from the [`main`](https://github.com/Expertcoderz/EC-Autoclicker/tree/main) branch
-and run it with AHK v2 to use EC Autoclicker.
+(neither automatically nor manually)
 
 You will receive the latest (and possibly experimental) version of EC Autoclicker, regardless of whether or not it
 is the same as the one published in Releases.
